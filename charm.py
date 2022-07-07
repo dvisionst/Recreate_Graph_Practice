@@ -24,3 +24,4 @@ five_cume = thirty_at_five_df['Interest Paid'].cumsum()
 
 plt.plot(x=thirty_at_three_df['Month'], y=three_cume, c='b')
 plt.plot(x=thirty_at_five_df['Month'], y=five_cume, c='k')
+
